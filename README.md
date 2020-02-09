@@ -1,2 +1,2 @@
 # hackerrank-junk
-Some basic hackerrank challenges I've completed in python
+Challenges varying in difficulty, from not very hard at all to kinda sorta hard but not too bad. String, array, and matrix manipulation, some algorithmic thinking, etc.
